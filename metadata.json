@@ -1,0 +1,6 @@
+{
+  "name": "飞镖积分轮盘",
+  "description": "一款极具创意的积分投注与飞镖物理学结合的游戏。玩家选择积分与飞镖次数，根据积分产生不同难度的彩色转盘，控制飞镖方向结合重力自由落体射入转盘，收获翻倍积分奖励！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
